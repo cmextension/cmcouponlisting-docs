@@ -16,6 +16,7 @@ General
 * **Notify admin for new merchant**: Enable or disable mailing to administrators when a new merchant registers. All administrators will receive this notification mail.
 * **Date format**: The date format used which is used in merchant and user's submission forms.
 * **Notify admin for new coupon**: Send notification mail to administrators when there is a new coupon submitted in front-end by merchant or user.
+* **Auto activate merchant**: Auto activate merchant after merchant registers.
 
 Logo and coupon folders are inside your Joomla!'s image folder. You can configure your Joomla!'s image folder in Media Manager.
 
