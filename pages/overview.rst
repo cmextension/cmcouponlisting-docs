@@ -23,6 +23,7 @@ Additional extensions
 * CMCouponListing Search module: a module showing a search form.
 * cmcouponlistingmerchant plug-in: a plug-in for integration with `Akeeba Subscription <https://www.akeebabackup.com/products/akeeba-subscriptions.html>`_ component, a merchant is automatically created in CMCouponListing when he/she subscribes a subscription in Akeeba Subscription component. Merchant is inactive when subscription expires.
 * tagcmcouponlising plug-in: a tag plug-in for `ACYMailling <https://www.acyba.com>`_, this helps you insert many coupons from a specific category into ACYMailing's newsletter automatically.
+* CMCouponListing Merchant's Coupons: a plug-in to insert list of coupons from a specific merchant into Joomla! article, Custome HTML module or any extension which supports onContentPrepare event.
 
 Main features
 -------------

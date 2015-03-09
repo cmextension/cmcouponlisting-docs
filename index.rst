@@ -23,3 +23,4 @@ This documentation gives you instruction how to install and setup CM Coupon List
    pages/featuredmerchantsmodule
    pages/searchmodule
    pages/tagcmcouponlisting
+   pages/cmcouponlistingmerchantcoupon
