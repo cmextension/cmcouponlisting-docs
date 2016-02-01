@@ -34,11 +34,10 @@ Layout
 
 .. image:: ../images/configuration_layout.jpg
 
-* **Layout**: Use non-responsive layout or responsive layout. You can use responsive layout if you use Joomla! 3.x.x or a Joomla! template which includes Bootstrap.
+* **Layout**: Select the Bootstrap version that your site uses.
 * **Coupon display order**: The order of coupons in coupon list.
 * **Enable coupon detail page**: Detail page shows more info about coupon. Enabling coupon detail page also gives user ability to share coupon via social networks. Coupon's detail description is disabled if coupon detail page is disabled.
 * **Display get coupon button in coupon list**: If you disable coupon detail page, you should display get coupon button in coupon list so that users can get coupon. If you enable coupon detail page, you can hide the button in coupon list, users need to view detail page to get coupon.
-* **jQuery**: Load an internal jQuery file inside your Joomla! installation or an external jQuery file. For example, if your jquery.js is placed in media/js/ folder, you could enter "media/js/jquery.js", or if you could use Google's jQuery "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js".
 * **Category list's column quanity**: Category list page displays categories and merchants in those categories, the list is displayed as columns.
 * **Sub-category's left indent**: Children categories are displayed right below their parent category, you can use spaces or symbols to separate these categories from the left margins, let's us easily recognize that they are children category. This setting is used in both back-end and front-end. You can use HTML entity name, eg &nbsp; for a space or &#8594; for a right arrow.
 
@@ -67,18 +66,6 @@ Submission page
 * **Access submission page**: Only users who are in the selected access level can access submission page to submit new coupon.
 * **Return page**: The page where user is taken to after a successful submission.
 * **Captcha**: Use the captcha plugin in submission form. You may need to enter required information for your captcha plugin in the Plugin Manager.
-
-Printable coupon
-----------------
-
-.. image:: ../images/configuration_printable_coupon.jpg
-
-These options are only used for non-repsonsive layout.
-
-* **Coupon image's max width in download modal**: Allowed maximum width in pixel of coupon image which is displayed in download modal. If coupon image's width is greater than this value, coupon image's width is forced to display in this value. This value should be smaller than modal's width.
-* **Coupon image's max height in download modall**: Allowed maximum height in pixel of coupon image which is displayed in download modal. If coupon image's height is greater than this value, coupon image's height is forced to display in this value. This value should be smaller than modal's height.
-* **Download modal's widthl**: Width of coupon download modal in pixel.
-* **Download modal's heightl**: Height of coupon download modal in pixel.
 
 Sharing buttons
 ---------------

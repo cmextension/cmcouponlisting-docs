@@ -12,8 +12,9 @@ CM Coupon Listing is released under `GNU Public License version 2 or later <http
 Technical Requirements
 ----------------------
 
-* Joomla! 2.5.x and Joomla! 3.x.x. Please check `Joomla!'s Technical Requirements <http://www.joomla.org/technical-requirements.html>`_ for more information.
-* Bootstrap 2 if using responsive layout. Bootstrap 3 is **NOT** supported.
+* Joomla! 3.x.x: The latest stable release of Joomla! is always recommended for stability and security. Please check `Joomla!'s Technical Requirements <http://www.joomla.org/technical-requirements.html>`_ for more information.
+* Joomla! 2.5.x: CM Coupon Listing could run on Joomla! 2.5.x. However we don't test all of CM Coupon Listing features on Joomla! 2.5.x because Joomla! 2.5 is not supported by Joomla! any more. Please update to Joomla! 3 if possible.
+* Bootstrap 2 or Bootstrap 3: Your site needs to have Bootstrap 2 or 3. If you don't use Bootstrap, you may need to override the output of CM Coupon Listing to add your own CSS classes.
 
 Additional extensions
 ---------------------
@@ -30,7 +31,7 @@ Main features
 
 **Front-end**:
 
-* 2 layouts: non-responsive and responsive (Bootstrap 2).
+* Support Bootstrap 2 and Bootstrap 3.
 * Menu item for listing all coupons, coupons in specific categories.
 * Menu item for listing all categories and merchants in them.
 * Menu item for listing all merchants.
@@ -50,6 +51,7 @@ Main features
 * Ask user for how much user saves (for example $50, 10€) and what user purchases if coupon works.
 * Ask user for the reason why coupon doesn't work.
 * User can post comment for coupon.
+* Print coupon or download coupon image (for printable coupon only).
 
 **Back-end**:
 

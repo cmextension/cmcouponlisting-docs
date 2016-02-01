@@ -6,7 +6,7 @@ Install CM Coupon Listing is very easy, just like installing any other Joomla! e
 
 We strongly recommend to backup your site before installing any new extension on your site.
 
-Log into your Joomla! back-end. On the top menu, you navigate to Extensions -> Extension Manager to access Extension Manager. Click "Browse" button and select the package of CM Coupon Listing that you downloaded from our website, click "Upload & Install" button to upload the package to your server to install.
+Log into your Joomla! back-end. On the top menu, you navigate to Extensions -> Manage to access Extension Manager. Click "Browse" button and select the package of CM Coupon Listing that you downloaded from our website, click "Upload & Install" button to upload the package to your server to install.
 
 If the installation is successful, you will receive the message "Installing package was successful."
 
